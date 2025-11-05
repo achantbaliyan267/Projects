@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="robots" content="noindex, nofollow">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMT Hyderabad: Best PGDM Colleges/B Schools in Hyderabad, Telangana</title>
+    <?php include "./components/header.php"?>
+
+    <style>
+        /* Makes ANY active tab (main or sub) turn yellow (bg-warning) */
+        .nav-pills .nav-link.active {
+          background-color: var(--bs-warning) !important; /* Bootstrap's built-in yellow */
+          color: var(--bs-dark) !important; /* Dark text for contrast */
+        }
+    </style>
+</head>
+
+<body>
+   <?php include "./components/navbar.php"?>
+        <!-- ===== Banner Section ===== -->
+        <!-- ===== Faculty Section ===== -->
+        <section class="faculty-section">
+            <!-- Top Banner -->
+            <div class="faculty-hero text-center text-white py-5" style="background: url(./media/banners/cdt.webp); 
+    position: relative;
+    background-size: cover;
+    height: 60vh;">
+                <h2 class="display-5 fw-bold mb-2">Centre For Digital Transformation</h2>
+                <p class="text-white">Driving innovation in the digital era.
+<br>
+Our Center for Digital Transformation explores emerging technologies, data-driven strategy, and digital leadership excellence.</p>
+            </div>
+            <!-- Bootstrap CSS already included above -->
+            <div class="breadcrumb p-4" style="background-color:rgb(22 57 119)">
+                <div class="container-fluid">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb bg-transparent p-0 m-0">
+                            <li class="breadcrumb-item ">
+                                <a style="text-decoration:none" href="/" class="text-white fw-bold">Home</a>
+                            </li>
+                            <li class="breadcrumb-item active text-warning fw-bold" aria-current="page">
+                                Centre For Digital Transformation
+                            </li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </section>
+
+        <section>
+        <div class="container mt-5 mb-3">
+            
+              <h2 class="section-title text-center text-center mb-3"
+          style="color:#08317a;" data-aos="fade-up" data-aos-delay="200">
+        Centre For Digital Transformation
+      </h2>
+
+
+
+                    <!-- Digi -->
+                    <div class="tab-pane fade show bg-white p-4 rounded-4 text-black" id="tab-digi" role="tabpanel">
+                        <nav class="nav nav-pills flex-wrap gap-2 mb-4 justify-content-center mt-4">
+                            <a class="nav-link bg-light text-dark rounded-pill tab active" data-bs-toggle="pill" href="#sub-res-digiabt" role="tab"> About</a>
+                            <a class="nav-link bg-light text-dark rounded-pill tab" data-bs-toggle="pill" href="#sub-res-digipep" role="tab"> People</a>
+                        </nav>
+
+                        <div class="tab-content container-sm text-black">
+                            <!-- Abt SUB-TAB CONTENT -->
+                            <div class="tab-pane fade show active" id="sub-res-digiabt" role="tabpanel">
+                                <p>“Digital transformation as more than just technology, it’s about rethinking business models, operations, and relationships with customers and ecosystems.” The transformational world of business environment in the digital
+                                    space has redefined parameters of success and competitiveness. In this context, IMT Hyderabad proposes to set up a Centre for Digital Transformation to provide research and other collaborative insights for Digital Transformation
+                                    initiatives and provide significant value to a range of stakeholders including corporates, government organisations, non- government organisations, advisory & think tank organisations and students. Using various conceptual
+                                    frameworks that integrate theories and developments in information systems, economics and other business disciplines, the centre examines digital transformation, emphasizing on the following topics but not limited to</p>
+                                <br>
+                                <div class="crs_list">
+                                    <ul>
+                                        <li>Role of Artificially intelligent (AI) technologies in organizational and societal transformation</li>
+                                        <li>Digital processes, products, platforms, and services</li>
+                                        <li>Digital customer experience</li>
+                                        <li>Building online marketplaces</li>
+                                        <li>Digitally enabled customer participation for co-creation and co-innovation</li>
+                                        <li>Digital business strategy</li>
+                                        <li>Digital value chain innovations</li>
+                                        <li>Digital architectures and governance models</li>
+                                        <li>Business analytics</li>
+                                        <li>Human emotions and sentiments in the digitized world</li>
+                                        <li>Digitization and transformation of work</li>
+                                        <li>Effects of digitization on jobs, incomes, and wages</li>
+                                    </ul>
+                                </div>
+                                <br>
+                                <h4  style="color:#08317a;"><b>Objective of the Centre for Digital Transformation</b></h4>
+                                <p>The Centre for Digital Transformation aims to provide thought leadership through action research projects and round table discussions in order to promote Digital Transformation of the collaborating partners and community
+                                    as a whole.</p>
+                                <br>
+                                <h4  style="color:#08317a;"><b>Activities of the Centre for Digital Transformation</b></h4>
+                                <div class="crs_list">
+                                    <ul>
+                                        <li>Entering into MoUs with organisations engaged in Digital Transformation</li>
+                                        <li>Engaging in practitioner and scholarly research for mutual benefit of industry and academics</li>
+                                        <li>Conducting training programs on Digital Transformation</li>
+                                        <li>Conducting seminars on Digital Transformation</li>
+                                        <li>Funding long-term research studies undertaken by IMT H faculty.</li>
+                                    </ul>
+                                </div>
+                                <br>
+                            </div>
+
+                            <!-- People Sub Tab -->
+                        <div class="tab-pane fade" id="sub-res-digipep" role="tabpanel">
+                            <!-- Row 1 -->
+                            <div class="row mb-4">
+                                <h5 class="text-center fw-bold fs-3 mb-4" style="color : #163977;">ADVISORY COUNCIL</h5>
+                                <!-- 1 -->
+                                <div class="col-12 col-md-6 mb-3 mb-md-0">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./media/csr-dt/1.webp" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold fs-4">Mr. Jayesh Ranjan</p>
+                                                    <br>
+                                                    <p class="card-text">Principal Secretary of the Industries & Commerce (I&C) and Information Technology (IT) Departments of the Telangana government</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4"><a href="https://it.telangana.gov.in/about/secretary/">View Profile</a></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 2 (Placeholder) -->
+                                <div class="col-12 col-md-6">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./media/csr-dt/2.webp" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold fs-4">Mr. Sreedhara Srinivasulu Narayanaswamy</p>
+                                                    <br>
+                                                    <p class="card-text">Head, Innovation Centers, Center of Excellence, Cloud Engineering</p>
+                                                    <p class="card-text">Japan & Asia Pacific, Oracle</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4"><a href="https://www.imthyderabad.edu.in/assets/images/faculty/pdf/Sreedhara-Narayanaswamy-Brief-Profile.pdf">View Profile</a></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Row 2 -->
+                            <div class="row mb-4">
+                                <!-- 1 -->
+                                <div class="col-12 col-md-6 mb-3 mb-md-0">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./media/csr-dt/3.webp" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold fs-4">Mr. Swastik Bihani</p>
+                                                    <br>
+                                                    <p class="card-text">Sr. Director of Products & GM</p>
+                                                    <p class="card-text">PayPal</p>
+                                                    
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4"><a href="https://www.imthyderabad.edu.in/assets/images/faculty/pdf/swastik.pdf">View Profile</a></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 2 (Placeholder) -->
+                                <div class="col-12 col-md-6">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./media/csr-dt/4.webp" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold fs-4">Dr. Sriharsha Reddy</p>
+                                                    <br>
+                                                    <p class="card-text">Dean & Professor</p>
+                                                    <p class="card-text">IMT Hyderabad</p>
+                                                    
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4"><a href="">View Profile</a></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Affiliated Faculty and Practitioners -->
+                            <!-- Row 1 -->
+                            <div class="row mb-4 mt-5">
+                                <h5 class="text-center fw-bold fs-3 mb-4" style="color : #163977;">AFFILIATED FACULTY & PRACTITIONERS</h5>
+                                <!-- 1 -->
+                                <div class="col-12 col-md-6 mb-3 mb-md-0">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./media/csr-dt/5.webp" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title">Dr. Surajit Ghosh Dastidar</p>
+                                                    <br>
+                                                    <p class="card-text">Chairperson, Centre for Digital Transformation</p>
+                                                    <p class="card-text">Associate Professor, Department of Analytics & IT</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4"><a href="">View Profile</a></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 2 (Placeholder) -->
+                                <div class="col-12 col-md-6">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./media/csr-dt/6.webp" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title">Dr. Mahesh Ramalingam</p>
+                                                    <br>
+                                                    <p class="card-text">Assistant Professor</p>
+                                                    <p class="card-text">Marketing Management</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4"><a href="">View Profile</a></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Row 2 -->
+                            <div class="row mb-4">
+                                <!-- 1 -->
+                                <div class="col-12 col-md-6 mb-3 mb-md-0">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./media/csr-dt/7.webp" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold fs-4">Dr. Kalyan c Chejarla</p>
+                                                    <br>
+                                                    <p class="card-text">Assistant Professor</p>
+                                                    <p class="card-text">operational Management</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4"><a href="">View Profile</a></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 2 (Placeholder) -->
+                                <div class="col-12 col-md-6">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./media/csr-dt/8.webp" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold fs-4">Dr. Indranil Ghosh</p>
+                                                    <br>
+                                                    <p class="card-text">Assistant Professor</p>
+                                                    <p class="card-text">Department of Analytics & IT</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4"><a href="">View Profile</a></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    
+</div>
+
+
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+        <style>
+            /* Gradient banner with subtle overlay */
+                    
+                .faculty-hero {
+                    
+                    background: url('./media/hero.webp');
+                    
+                  position: relative;
+                    
+                  background-size:cover ;
+                    
+                  height:50vh;
+                    
+                }
+                    
+                .faculty-hero::before {
+                    
+                    content: "";
+                    
+                  position: absolute;
+                    
+                  inset: 0;
+                    
+                  background: rgba(0,0,0,0.3);
+                    
+                }
+                    
+                .faculty-hero h2,
+                    
+                .faculty-hero p {
+                    
+                    
+                    
+                    position: relative;
+                    
+                  z-index: 1;
+                    
+                }
+                    
+              .faculty-hero h2{
+ margin-top:150px;
+ }
+                    
+                
+                    
+                /* Card styling */
+                    
+                .faculty-card {
+                    
+                    background: #f8f9fa;
+                    
+                  border: none;
+                    
+                  border-radius: 1.5rem;
+                    
+                }
+                    
+                
+                    
+                /* Image glow & hover effect */
+                    
+                .faculty-img {
+                    
+                    border-radius: 1.2rem;
+                    
+                  transition: transform 0.4s ease;
+                    
+                }
+                    
+                .faculty-img:hover {
+                    
+                    transform: scale(1.03);
+                    
+                }
+                    
+                
+                    
+                /* Social icons */
+                    
+                .social-icon {
+                    
+                    display: inline-flex;
+                    
+                  width: 40px;
+                    
+                  height: 40px;
+                    
+                  border-radius: 50%;
+                    
+                  justify-content: center;
+                    
+                  align-items: center;
+                    
+                  background: #ffc107;
+                    
+                  color: #ffffffff;
+                    
+                  transition: all 0.3s;
+                    
+                }
+                    
+                .social-icon:hover {
+                    
+                    background: #5390D9;
+                    
+                  color: #ffffffff;
+                    
+                  transform: translateY(-3px);
+                    
+                }
+                    
+                
+                    
+                /* Tabs */
+                    
+                .faculty-tabs .nav-pills .nav-link {
+                    
+                    border-radius: 50rem;
+                    
+                  background: #e9ecef;
+                    
+                  color: #333;
+                    
+                  transition: all 0.3s;
+                    
+                }
+                    
+                .faculty-tabs .nav-pills .nav-link.active {
+                    
+                    background: #ffc107;
+                    
+                  color: #000000ff;
+                    
+                }
+        </style>
+
+
+        <?php include "./components/footer.php" ?>
+
+
+
+
+
+</body>
+<!-- jQuery (required) -->
+
+<script src="./main.js"></script>
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Owl Carousel JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<!-- AOS JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script>
+    AOS.init({
+        duration: 1200, // animation duration
+        once: true,     // animation runs only once
+      });
+</script>
+<script>
+    AOS.init();
+</script>
+
+<script>
+    $(document).ready(function(){
+      $("#owl-demo").owlCarousel({
+        loop:true,
+        margin:20,
+        nav:true,
+        dots:false,
+        autoplay:true,
+        autoplayTimeout:2000,
+        autoplayHoverPause:true,
+        responsive:{
+          0:{ items:1 },
+          600:{ items:3 },
+          1000:{ items:4 }
+        }
+      });
+    });
+</script>
+
+<!-- Bootstrap JS -->
+<!-- AOS (if you need it) -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<!-- Bootstrap Bundle (includes Popper) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
+<script>
+    AOS.init({
+        duration: 1000,   // Animation duration
+        once: true        // Animate only once
+      });
+</script>
+
+</html>

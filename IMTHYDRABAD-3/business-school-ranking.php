@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta name="robots" content="noindex, nofollow">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMT Hyderabad: Best PGDM Colleges/B Schools in Hyderabad, Telangana</title>
+    <?php include "./components/header.php"?>
+</head>
+<body>
+   <?php include "./components/navbar.php"?>
+  <!-- ===== Banner Section ===== -->
+<!-- ===== Faculty Section ===== -->
+<section class="faculty-section">
+  <!-- Top Banner -->
+  <div class="faculty-hero text-center text-white py-5" style="background: url(./media/banners/ranking.jpg); */
+    position: relative;
+    background-size: cover;
+    height: 60vh;">
+    <h2 class="display-5 fw-bold mb-2">Top Business Schools Rankings</h2>
+    <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis animi illum <br> facere fuga eaque ducimus, praesentium in distinctio </p>
+  </div>
+ <!-- Bootstrap CSS already included above -->
+<div class="breadcrumb p-4" style="background-color:rgb(22 57 119)">
+ <div class="container-fluid">
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb bg-transparent p-0 m-0">
+      <li class="breadcrumb-item ">
+        <a style="text-decoration:none" href="/" class="text-white fw-bold">Home</a>
+      </li>
+      <li class="breadcrumb-item active text-warning fw-bold" aria-current="page">
+       Top Business Schools Rankings
+      </li>
+    </ol>
+  </nav>
+</div>
+</div>
+
+</head> 
+<body> 
+
+     <!-- Rankings Section -->
+  <section id="rankings" class="py-5 ">
+   <div class="section-header">
+            <h2 class="section-title text-center  mb-4"  style="color:#08317a;" data-aos="fade-up" data-aos-delay="200">Top Business Schools Rankings</h2>
+        </div>
+      <div class="rankings-card container">
+       <div class="row">
+         <!-- NIRF Ranking -->
+        <div class="mb-4">
+          <div class="ranking-header"  style="color:#08317a;">National Institutional Ranking Framework (NIRF) India Rankings 2025</div>
+          <ul class="list-group ranking-list">
+            <li class="list-group-item d-flex justify-content bg-transparent border-0">
+              <span class="institution-rank">72nd</span> Ranked Among 1026 Participating Management Institutes
+            </li>
+          </ul>
+        </div>
+
+        <!-- The Week-Hansa Ranking -->
+        <div class="mb-4">
+          <div class="ranking-header"  style="color:#08317a;">The Week-Hansa Best B-School Rankings 2024</div>
+          <ul class="list-group ranking-list">
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">8th</span> Ranked Among 84 Private B-Schools in South India
+            </li>
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">12th</span> Ranked Among 89 Government and Private B-Schools in South India
+            </li>
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">35th</span> Ranked Among 213 Private B-Schools from all-over India
+            </li>
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">49th</span> Ranked Among 235 Government and Private B-Schools from all-over India
+            </li>
+          </ul>
+        </div>
+
+        <!-- Fortune India-ACRA Ranking -->
+        <div class="mb-4">
+          <div class="ranking-header"  style="color:#08317a;">Fortune India-ACRA B-School Rankings 2024</div>
+          <ul class="list-group ranking-list">
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">13th</span> Ranked Among 90 Government and Private B-Schools in South India
+            </li>
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">25th</span> Ranked Among 192 Private B-Schools from all-over India
+            </li>
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">55th</span> Ranked Among 233 Government and Private B-Schools from all-over India
+            </li>
+          </ul>
+        </div>
+
+        <!-- Education World Ranking -->
+        <div class="mb-4">
+          <div class="ranking-header"  style="color:#08317a;">Education World (EW) Higher Education Rankings 2024-25</div>
+          <ul class="list-group ranking-list">
+            <li class="list-group-item d-flex justify-content bg-transparent border-0">
+              <span class="institution-rank">17th</span> Ranked Among India’s top 100 private B-Schools
+            </li>
+          </ul>
+        </div>
+
+        <!-- Businessworld Ranking -->
+        <div class="mb-4">
+          <div class="ranking-header"  style="color:#08317a;">Businessworld B-School Rankings 2024</div>
+          <ul class="list-group ranking-list">
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">9th</span> Ranked Among 57 Private B-Schools in South India
+            </li>
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">24th</span> Ranked Among 154 Private B-Schools
+            </li>
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">39th</span> Ranked Among 175 Government and Private B-Schools
+            </li>
+          </ul>
+        </div>
+
+        <!-- Business Today Ranking -->
+        <div class="mb-4">
+          <div class="ranking-header"  style="color:#08317a;">Business Today - MDRA B-School Ranking 2024</div>
+          <ul class="list-group ranking-list">
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">14th</span> Ranked Among Top 20 Government and Private B-Schools in South India
+            </li>
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">33rd</span> Ranked Among 100 Private B-Schools from all-over India
+            </li>
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">53rd</span> Ranked Among 275 Government and Private B-Schools from all-over India
+            </li>
+          </ul>
+        </div>
+
+        <!-- Careers 360 Ranking -->
+        <div class="mb-4">
+          <div class="ranking-header"  style="color:#08317a;">Careers 360 Rankings of India’s Best B-Schools 2025</div>
+          <ul class="list-group ranking-list">
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">38th</span> Ranked Among Private B-Schools
+            </li>
+            <li class="list-group-item bg-transparent border-0">
+              <span class="institution-rank">AAAA Rated</span> Among Government and Private B-Schools from all-over India
+            </li>
+          </ul>
+        </div>
+
+        <!-- GHRDC Ranking -->
+        <div class="mb-0">
+          <div class="ranking-header"  style="color:#08317a;">GHRDC B-School Ranking 2025</div>
+          <ul class="list-group ranking-list">
+            <li class="list-group-item d-flex justify-content bg-transparent border-0">
+              <span class="institution-rank">1st</span> Ranked Private B-School in Telangana
+            </li>
+            <li class="list-group-item d-flex justify-content bg-transparent border-0">
+              <span class="institution-rank">10th</span> Ranked Among 69 Private B-Schools in India
+            </li>
+          </ul>
+        </div>
+       </div>
+      </div>
+    </div>
+  </section>
+  
+   <section  class="py-5" style="background-color: #151f54;">
+    <div class="container">
+      
+      <div class="row logos_section_inner justify-content-center g-4">
+        <!-- National Ranking -->
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="ranking-logo-card text-center">
+            <div class="logo-container">
+              <img src="https://www.imthyderabad.edu.in/assets/images/about/r-ew.png" alt="NIRF Ranking">
+            </div>
+            <div class="logo-title-dark">National Institutional Ranking Framework</div>
+          </div>
+        </div>
+        
+        <!-- Higher Education -->
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="ranking-logo-card text-center">
+            <div class="logo-container">
+              <img src="https://www.imthyderabad.edu.in/assets/images/about/r-nirf.png" alt="Education World">
+            </div>
+            <div class="logo-title-dark">Education World Rankings</div>
+          </div>
+        </div>
+        
+        <!-- Business World -->
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="ranking-logo-card text-center">
+            <div class="logo-container">
+              <img src="https://www.imthyderabad.edu.in/assets/images/about/r-bw.png" alt="Business World">
+            </div>
+            <div class="logo-title-dark">Businessworld Rankings</div>
+          </div>
+        </div>
+        
+        <!-- Careers 360 -->
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="ranking-logo-card text-center">
+            <div class="logo-container">
+              <img src="https://www.imthyderabad.edu.in/assets/images/about/r-360.png" alt="Careers 360">
+            </div>
+            <div class="logo-title-dark">Careers 360 Rankings</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+
+<style>
+ /* Gradient banner with subtle overlay */
+.faculty-hero {
+  background: url('./media/hero.jpg');
+  position: relative;
+  background-size:cover ;
+  height:50vh;
+}
+.faculty-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.3);
+}
+.faculty-hero h2,
+.faculty-hero p {
+   
+  position: relative;
+  z-index: 1;
+}
+.faculty-hero h2{
+
+    margin-top:150px;
+    }
+
+/* Card styling */
+.faculty-card {
+  background: #f8f9fa;
+  border: none;
+  border-radius: 1.5rem;
+}
+
+/* Image glow & hover effect */
+.faculty-img {
+  border-radius: 1.2rem;
+  transition: transform 0.4s ease;
+}
+.faculty-img:hover {
+  transform: scale(1.03);
+}
+
+/* Social icons */
+.social-icon {
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  background: #ffc107;
+  color: #ffffffff;
+  transition: all 0.3s;
+}
+.social-icon:hover {
+  background: #5390D9;
+  color: #ffffffff;
+  transform: translateY(-3px);
+}
+
+/* Tabs */
+.faculty-tabs .nav-pills .nav-link {
+  border-radius: 50rem;
+  background: #e9ecef;
+  color: #333;
+  transition: all 0.3s;
+}
+.faculty-tabs .nav-pills .nav-link.active {
+  background: #ffc107;
+  color: #000000ff;
+}
+
+    body {
+     
+      color: #333;
+      line-height: 1.6;
+    }
+    
+    .section-title {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--imt-primary);
+      margin-bottom: 1.5rem;
+      position: relative;
+      padding-bottom: 0.5rem;
+    }
+    
+    .section-title::after {
+      
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 80px;
+      height: 3px;
+      background: var(--imt-secondary);
+    }
+    
+    .rankings-card {
+      background: #fff;
+      border-radius: 1rem;
+      box-shadow: 0 0.5rem 2rem rgba(0,0,0,0.08);
+      padding: 1.75rem;
+      margin-bottom: 2rem;
+
+      border: 1px solid #e9ecef;
+    }
+    
+    .ranking-header {
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: var(--imt-primary);
+      margin: 1.5rem 0 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid #eee;
+    }
+    
+    .ranking-list li {
+      padding: 0.5rem 0;
+      font-size: 0.95rem;
+    }
+    
+    .institution-rank {
+      font-weight: 700;
+      color: var(--imt-secondary);
+      min-width: 40px;
+      display: inline-block;
+    }
+   
+    
+    
+   .section-bg {
+      background-color: #151f54;
+      padding: 3rem 0;
+      border-radius: 15px;
+      margin: 2rem 0;
+    }
+    
+    .ranking-logo-card {
+      background: white;
+      border-radius: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      padding: 1.5rem;
+      transition: all 0.3s ease;
+      height: 100%;
+    }
+    .logo-container {
+      height: 120px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      max-width: 200px;
+    }
+    
+    .logo-container img {
+      max-height: 100%;
+      max-width: 100%;
+      object-fit: contain;
+      filter: brightness(0.9);
+      transition: all 0.3s ease;
+    }
+   
+    
+    @media (max-width: 768px) {
+      .logo-container {
+        height: 100px;
+      }
+      
+      .section-title {
+        font-size: 1.5rem;
+      }
+    }
+    
+    @media (max-width: 576px) {
+      .logo-container {
+        height: 80px;
+        max-width: 150px;
+      }
+      
+      .section-title {
+        font-size: 1.3rem;
+      }
+    }
+    
+
+    
+    @media (max-width: 768px) {
+      .section-title {
+        font-size: 1.7rem;
+      }
+      .ranking-header {
+        font-size: 1.2rem;
+      }
+      .ranking-list li {
+        font-size: 0.9rem;
+      }
+    }
+    
+    @media (max-width: 576px) {
+      .section-title {
+        font-size: 1.5rem;
+      }
+    }
+
+</style>
+   
+
+<?php include "./components/footer.php" ?>
+
+
+			
+            
+    
+</body><!-- jQuery (required) -->
+
+<script src="./main.js"></script>
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Owl Carousel JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<!-- AOS JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script>
+  AOS.init({
+    duration: 1200, // animation duration
+    once: true,     // animation runs only once
+  });
+</script>
+<script>
+  AOS.init();
+</script>
+
+<script>
+$(document).ready(function(){
+  $("#owl-demo").owlCarousel({
+    loop:true,
+    margin:20,
+    nav:true,
+    dots:false,
+    autoplay:true,
+    autoplayTimeout:2000,
+    autoplayHoverPause:true,
+    responsive:{
+      0:{ items:1 },
+      600:{ items:3 },
+      1000:{ items:4 }
+    }
+  });
+});
+</script>
+
+  <!-- Bootstrap JS -->
+<!-- AOS (if you need it) -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<!-- Bootstrap Bundle (includes Popper) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
+  <script>
+  AOS.init({
+    duration: 1000,   // Animation duration
+    once: true        // Animate only once
+  });
+</script>
+</html>

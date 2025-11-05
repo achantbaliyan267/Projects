@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="robots" content="noindex, nofollow">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMT Hyderabad: Best PGDM Colleges/B Schools in Hyderabad, Telangana</title>
+    <!-- No Index for SEO (prevents search engines from indexing this page) -->
+
+    <!-- Favicon -->
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+
+    <!-- Optional: PNG Favicon for better quality -->
+    <link rel="icon" href="./favicon.ico" type="image/png">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <!-- AOS Library -->
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
+    <!-- Owl Carousel JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <!-- AOS CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+
+    <style>
+        /* Makes ANY active tab (main or sub) turn yellow (bg-warning) */
+        .nav-pills .nav-link.active {
+          background-color: var(--bs-warning) !important; /* Bootstrap's built-in yellow */
+          color: var(--bs-dark) !important; /* Dark text for contrast */
+        }
+    </style>
+</head>
+
+<body>
+    <?php include "./components/navbar.php"?>
+        <!-- ===== Banner Section ===== -->
+        <!-- ===== Faculty Section ===== -->
+        <section class="faculty-section">
+            <!-- Top Banner -->
+            <div class="faculty-hero text-center text-white py-5" style="background: url(./media/banners/centerofsustainabilityandcsr.jpg); 
+    position: relative;
+    background-size: cover;
+    height: 50vh;">
+                <h2 class="display-5 fw-bold mb-2">Centre For Sustainability & CSR</h2>
+                <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis animi illum
+                    <br> facere fuga eaque ducimus, praesentium in distinctio </p>
+            </div>
+            <!-- Bootstrap CSS already included above -->
+            <div class="breadcrumb p-4" style="background-color:rgb(22 57 119)">
+                <div class="container-fluid">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb bg-transparent p-0 m-0">
+                            <li class="breadcrumb-item ">
+                                <a style="text-decoration:none" href="/" class="text-white fw-bold">Home</a>
+                            </li>
+                            <li class="breadcrumb-item active text-warning fw-bold" aria-current="page">
+                                Centre For Sustainability & CSR
+                            </li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </section>
+
+        <section>
+           
+            <div class="container mb-4 mt-5">
+                 <h2 class="section-title text-center text-center mb-3"
+          style="color:#08317a;" data-aos="fade-up" data-aos-delay="200">Centre For Sustainability & CSR</h2>
+                <!-- CSR -->
+                <div class="tab-pane fade show active bg-white p-4 rounded-4 text-black" id="tab-sus" role="tabpanel">
+
+                    <nav class="nav nav-pills flex-wrap gap-2 mb-4 justify-content-center mt-4">
+                        <a class="nav-link bg-light text-dark rounded-pill tab active" data-bs-toggle="pill" href="#sub-res-susabt" role="tab"> About</a>
+                        <a class="nav-link bg-light text-dark rounded-pill tab" data-bs-toggle="pill" href="#sub-res-suspep" role="tab"> People</a>
+                        <a class="nav-link bg-light text-dark rounded-pill tab" data-bs-toggle="pill" href="#sub-res-susne" role="tab"> News & Events</a>
+                    </nav>
+
+
+                    <div class="tab-content container-sm text-black mb-4">
+                        <!-- Abt SUB-TAB CONTENT -->
+                        <div class="tab-pane fade show active" id="sub-res-susabt" role="tabpanel">
+                            <p>Excellence, innovation and responsible leadership have always remained basic tenets guiding all the processes at IMT Hyderabad. In line with the vision of nurturing socially responsible leaders, the mission of IMT Hyderabad
+                                is
+                            </p>
+                            <div class="crs_list">
+                                <ul>
+                                    <li>To promote academic excellence</li>
+                                    <li>To enhance industry readiness through learner centric pedagogy and industry inspired curriculum
+                                    </li>
+                                    <li>To instill social conscientiousness</li>
+                                </ul>
+                            </div>
+                            <p>IMT Hyderabad aims to continuously leverage opportunities in creating awareness and sense of responsibility among the students so that the future leaders are prepared to make meaningful contributions to the society.</p>
+                            <p>The Centre for Sustainability and CSR at IMT Hyderabad provides a collaborative eco-system for researchers, practitioners, students, inter-governmental organizations, governments organizations, non-government organizations,
+                                social incubators, and other stakeholders, to create a sustainable future.</p>
+                            <p>Continuing the works of Millennium Development Goals (MDGs) to save the planet and improve the quality of life for its population, in 2015 the United Nations (UN) and its member states committed to achieve 17 Sustainable Development
+                                Goals (SDGs) by 2030 (<a href="https://sdgs.un.org/goals">https://sdgs.un.org/goals</a>). UN also realizes the importance of partnership among educational institutions, local communities, governments, and corporate organizations
+                                to achieve the ambitious SDGs by 2030 (<a href="https://sdgs.un.org/topics/multi-stakeholder-partnerships-and-voluntary-commitments">https://sdgs.un.org/topics/multi-stakeholder-partnerships-and-voluntary-commitments</a>)
+                            </p>
+                            <br>
+                            <br>
+                            <div class="center_award">
+                                <div class="camp_imgg">
+                                    <img src="assets/images/csr.png" alt="Preeti Sharma Assistant Professor awarded" width="100%" class="img-responsive">
+                                    <br>
+                                    <br>
+                                    <p>Source: (<a href="https://www.un.org/sustainabledevelopment/blog/2015/12/sustainable-development-goals-kick-off-with-start-of-new-year/">https://www.un.org/sustainabledevelopment/blog/2015/12/sustainable-development-goals-kick-off-with-start-of-new-year/</a>)
+                                    </p>
+                                    <br>
+                                    <br>
+                                </div>
+                            </div>
+                            <h4><b>Objective of the Centre for Sustainability and CSR</b></h4>
+                            <div class="crs_list">
+                                <ul>
+                                    <li>The Centre for Sustainability and CSR aims to provide thought leadership through action research projects and round table discussions in order to promote CSR and sustainability initiatives of the collaborating partners
+                                        and community as a whole.
+                                    </li>
+                                </ul>
+                            </div>
+                            <h4><b>Activities of the Centre for Sustainability and CSR</b></h4>
+                            <div class="crs_list">
+                                <ul>
+                                    <li>Entering into agreements/ MoUs with organisations engaged in Sustainability and CSR for promoting collaboration.
+                                    </li>
+                                    <li>Encouraging people-centric research, studies and innovative initiatives by practitioners and scholars for the benefit of all stakeholders, especially industry and academics.
+                                    </li>
+                                    <li>Conducting training and capacity building programs for corporates on Sustainability and CSR.
+                                    </li>
+                                    <li>Conducting seminars, conferences and workshops on sustainability and CSR for wider advocacy of the concepts and upgrading the knowledge and competence for successful strategic implementation practices.
+                                    </li>
+                                    <li>Funding long-term research studies undertaken by IMT H faculty.Providing advisory support and capacity building help to NGOs and other organisations engaged in providing sustainable development solutions.
+                                    </li>
+                                    <li>Extending help to corporates and other organizations in formulation of their sustainability and CSR policies and their strategic implementation.
+                                    </li>
+                                    <li>Organizing knowledge exchange programs/visits with reputed International bodies, agencies and institutes to keep abreast with the global best policies and practices in the domain of sustainability and CSR.
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- People Sub Tab -->
+                        <div class="tab-pane fade" id="sub-res-suspep" role="tabpanel">
+                            <!-- Row 1 -->
+                            <div class="row mb-4">
+                                <h5 class="text-center fw-bold fs-3 mb-4" style="color : #163977;">ADVISORY COUNCIL</h5>
+                                <!-- 1 -->
+                                <div class="col-12 col-md-6 mb-3 mb-md-0">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./images/csr1.jpg" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold">Shri Ashok K. Pavadia</p>
+                                                    <br>
+                                                    <p class="card-text">Founder & Director</p>
+                                                    <p class="card-text">Council for Research on Policy and Governance</p>
+                                                    <p class="card-text">Lead expert and Mentor</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4">View Profile</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 2 (Placeholder) -->
+                                <div class="col-12 col-md-6">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./images/csr1.jpg" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold">Shri Ashok K. Pavadia</p>
+                                                    <br>
+                                                    <p class="card-text">Founder & Director</p>
+                                                    <p class="card-text">Council for Research on Policy and Governance</p>
+                                                    <p class="card-text">Lead expert and Mentor</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4">View Profile</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Row 2 -->
+                            <div class="row mb-4">
+                                <!-- 1 -->
+                                <div class="col-12 col-md-6 mb-3 mb-md-0">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./images/csr1.jpg" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title">Shri Ashok K. Pavadia</p>
+                                                    <br>
+                                                    <p class="card-text">Founder & Director</p>
+                                                    <p class="card-text">Council for Research on Policy and Governance</p>
+                                                    <p class="card-text">Lead expert and Mentor</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4">View Profile</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 2 (Placeholder) -->
+                                <div class="col-12 col-md-6">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./images/csr1.jpg" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title">Shri Ashok K. Pavadia</p>
+                                                    <br>
+                                                    <p class="card-text">Founder & Director</p>
+                                                    <p class="card-text">Council for Research on Policy and Governance</p>
+                                                    <p class="card-text">Lead expert and Mentor</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4">View Profile</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Affiliated Faculty and Practitioners -->
+                            <!-- Row 1 -->
+                            <div class="row mb-4 mt-5">
+                                <h5 class="text-center fw-bold fs-3 mb-4" style="color : #163977;">AFFILIATED FACULTY & PRACTITIONERS</h5>
+                                <!-- 1 -->
+                                <div class="col-12 col-md-6 mb-3 mb-md-0">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./images/csr1.jpg" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title">Shri Ashok K. Pavadia</p>
+                                                    <br>
+                                                    <p class="card-text">Founder & Director</p>
+                                                    <p class="card-text">Council for Research on Policy and Governance</p>
+                                                    <p class="card-text">Lead expert and Mentor</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4">View Profile</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 2 (Placeholder) -->
+                                <div class="col-12 col-md-6">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./images/csr1.jpg" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title">Shri Ashok K. Pavadia</p>
+                                                    <br>
+                                                    <p class="card-text">Founder & Director</p>
+                                                    <p class="card-text">Council for Research on Policy and Governance</p>
+                                                    <p class="card-text">Lead expert and Mentor</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4">View Profile</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Row 2 -->
+                            <div class="row mb-4">
+                                <!-- 1 -->
+                                <div class="col-12 col-md-6 mb-3 mb-md-0">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./images/csr1.jpg" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold">Shri Ashok K. Pavadia</p>
+                                                    <br>
+                                                    <p class="card-text">Founder & Director</p>
+                                                    <p class="card-text">Council for Research on Policy and Governance</p>
+                                                    <p class="card-text">Lead expert and Mentor</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4">View Profile</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 2 (Placeholder) -->
+                                <div class="col-12 col-md-6">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./images/csr1.jpg" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold">Shri Ashok K. Pavadia</p>
+                                                    <br>
+                                                    <p class="card-text">Founder & Director</p>
+                                                    <p class="card-text">Council for Research on Policy and Governance</p>
+                                                    <p class="card-text">Lead expert and Mentor</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4">View Profile</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Row 3 -->
+                            <div class="row mb-4">
+                                <!-- 1 -->
+                                <div class="col-12 col-md-6 mb-3 mb-md-0">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./images/csr1.jpg" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold">Shri Ashok K. Pavadia</p>
+                                                    <br>
+                                                    <p class="card-text">Founder & Director</p>
+                                                    <p class="card-text">Council for Research on Policy and Governance</p>
+                                                    <p class="card-text">Lead expert and Mentor</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4">View Profile</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 2 (Placeholder) -->
+                                <div class="col-12 col-md-6">
+                                    <div class="card h-100 p-4">
+                                        <div class="row g-0">
+                                            <div class="col-md-5">
+                                                <img src="./images/csr1.jpg" class="img-fluid rounded-start" alt="Student Photo" style="height:14rem;">
+                                            </div>
+                                            <div class="col-md-7">
+                                                <div class="card-body">
+                                                    <p class="card-title fw-bold">Shri Ashok K. Pavadia</p>
+                                                    <br>
+                                                    <p class="card-text">Founder & Director</p>
+                                                    <p class="card-text">Council for Research on Policy and Governance</p>
+                                                    <p class="card-text">Lead expert and Mentor</p>
+                                                    <button class="bg-warning text-white px-3 py-2 border-0 rounded-4">View Profile</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- News Sub Tab -->
+                        <div class="tab-pane fade" id="sub-res-susne" role="tabpanel">
+                            <p>IMT Hyderabad held an inauguration ceremony to launch the Centre for Sustainability and CSR on 7th August 2021. The session began with an inaugural address by Prof. (Dr.) Tulika Sharma, Chairperson - Centre for Sustainability
+                                & CSR. The event presided under Shri Ashok K Pavadia, Founder & Director, Council for Research on Policy & Governance and Lead Expert & Mentor, Centre for Sustainability and CSR, Shri Shoury Reddy, Advisor, Centre for Sustainability
+                                & CSR and Executive Director, BVIC, Shri Atul Sobti, Director General, SCOPE, and Shri Dr. S.K. Joshi, Advisor, Centre for Sustainability & CSR and Former Chief Secretary, Govt. of Telangana. They discussed their views
+                                on sustainability and how CSR aims to achieve and maintain social well-being, environmental and ecological preservation.
+                                <br>
+                                <br> The event also witnessed a brief address by Prof. (Dr.) Sriharsha Reddy, Director Designate, IMT Hyderabad, shared his vision of the center contributing to nurturing socially responsible leaders. The event concluded with
+                                Prof. (Dr) Rambalak Yadav proposing a vote of thanks to all the dignitaries for their valuable time and suggestions in the domain of sustainability.</p>
+                        </div>
+                    </div>
+                </div>
+
+
+               
+            </div>
+
+
+
+
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+        <style>
+            /* Gradient banner with subtle overlay */
+                    
+                .faculty-hero {
+                    
+                    background: url('./media/hero.jpg');
+                    
+                  position: relative;
+                    
+                  background-size:cover ;
+                    
+                  height:50vh;
+                    
+                }
+                    
+                .faculty-hero::before {
+                    
+                    content: "";
+                    
+                  position: absolute;
+                    
+                  inset: 0;
+                    
+                  background: rgba(0,0,0,0.3);
+                    
+                }
+                    
+                .faculty-hero h2,
+                    
+                .faculty-hero p {
+                    
+                    
+                    
+                    position: relative;
+                    
+                  z-index: 1;
+                    
+                }
+                    
+                .faculty-hero h2{
+                    
+                    
+                    
+                    margin-top:130px;
+                    
+                }
+                    
+                
+                    
+                /* Card styling */
+                    
+                .faculty-card {
+                    
+                    background: #f8f9fa;
+                    
+                  border: none;
+                    
+                  border-radius: 1.5rem;
+                    
+                }
+                    
+                
+                    
+                /* Image glow & hover effect */
+                    
+                .faculty-img {
+                    
+                    border-radius: 1.2rem;
+                    
+                  transition: transform 0.4s ease;
+                    
+                }
+                    
+                .faculty-img:hover {
+                    
+                    transform: scale(1.03);
+                    
+                }
+                    
+                
+                    
+                /* Social icons */
+                    
+                .social-icon {
+                    
+                    display: inline-flex;
+                    
+                  width: 40px;
+                    
+                  height: 40px;
+                    
+                  border-radius: 50%;
+                    
+                  justify-content: center;
+                    
+                  align-items: center;
+                    
+                  background: #ffc107;
+                    
+                  color: #ffffffff;
+                    
+                  transition: all 0.3s;
+                    
+                }
+                    
+                .social-icon:hover {
+                    
+                    background: #5390D9;
+                    
+                  color: #ffffffff;
+                    
+                  transform: translateY(-3px);
+                    
+                }
+                    
+                
+                    
+                /* Tabs */
+                    
+                .faculty-tabs .nav-pills .nav-link {
+                    
+                    border-radius: 50rem;
+                    
+                  background: #e9ecef;
+                    
+                  color: #333;
+                    
+                  transition: all 0.3s;
+                    
+                }
+                    
+                .faculty-tabs .nav-pills .nav-link.active {
+                    
+                    background: #ffc107;
+                    
+                  color: #000000ff;
+                    
+                }
+        </style>
+
+
+        <?php include "./components/footer.php" ?>
+
+
+
+
+
+</body>
+<!-- jQuery (required) -->
+
+<script src="./main.js"></script>
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Owl Carousel JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<!-- AOS JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script>
+    AOS.init({
+        duration: 1200, // animation duration
+        once: true,     // animation runs only once
+      });
+</script>
+<script>
+    AOS.init();
+</script>
+
+<script>
+    $(document).ready(function(){
+      $("#owl-demo").owlCarousel({
+        loop:true,
+        margin:20,
+        nav:true,
+        dots:false,
+        autoplay:true,
+        autoplayTimeout:2000,
+        autoplayHoverPause:true,
+        responsive:{
+          0:{ items:1 },
+          600:{ items:3 },
+          1000:{ items:4 }
+        }
+      });
+    });
+</script>
+
+<!-- Bootstrap JS -->
+<!-- AOS (if you need it) -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<!-- Bootstrap Bundle (includes Popper) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
+<script>
+    AOS.init({
+        duration: 1000,   // Animation duration
+        once: true        // Animate only once
+      });
+</script>
+
+</html>

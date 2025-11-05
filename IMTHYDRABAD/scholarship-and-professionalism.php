@@ -1,0 +1,551 @@
+  <!DOCTYPE html>
+    <html lang="en">
+        <head>
+        <meta name="robots" content="noindex, nofollow">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>IMT Hyderabad: Best PGDM Colleges/B Schools in Hyderabad, Telangana</title>
+        <?php include "./components/header.php"?>
+    </head>
+    <body>
+       <?php include "./components/navbar.php"?>
+    <!-- ===== Banner Section ===== -->
+    <!-- ===== Faculty Section ===== -->
+    <section class="faculty-section">
+    <!-- Top Banner -->
+     <div class="faculty-hero text-center text-white py-5" style="background: url(./media/banners/carrier.webp); */
+    position: relative;
+    background-size: cover;
+    height: 60vh;">
+        <h2 class="display-5 fw-bold mb-2">Standards Of Scholarship And Professionalism</h2>
+        <p class="text-white">Recognizing merit, nurturing integrity.
+<br>
+Our scholarships reward excellence and encourage professionalism grounded in ethics, diligence, and leadership potential.</p>
+    </div>
+    <!-- Bootstrap CSS already included above -->
+    <div class="breadcrumb p-4" style="background-color:rgb(22 57 119)">
+    <div class="container-fluid">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb bg-transparent p-0 m-0">
+        <li class="breadcrumb-item ">
+            <a style="text-decoration:none" href="/" class="text-white fw-bold">Home</a>
+        </li>
+        <!-- <li class="breadcrumb-item">
+            <a style="text-decoration:none" href="/faculty" class="text-white fw-bold">Faculty</a>
+        </li> -->
+        <li class="breadcrumb-item active text-warning fw-bold" aria-current="page">
+       Standards Of Scholarship And Professionalism</li>
+        </ol>
+    </nav>
+    </div>
+    </div>
+
+
+     <section id="executive-education" class="py-5 ">
+  <div class="container" data-aos="fade-up" data-aos-delay="200">
+    <!-- Content -->
+   <div class="card p-4">
+     <h2 class="section-title text-center text-center"
+          style="color:#08317a;" data-aos="fade-up" data-aos-delay="200">
+       Standards Of Scholarship And Professionalism
+      </h2>
+     <div class="row justify-content-center mt-3 ">
+      <div class="col-lg-12 text-justify">
+       <p>The reputation and pride of the institute depends on the manner in which each member of the community conducts himself / herself, both within and outside the premises of the institute. Classroom, extracurricular, and professional relationships must be based on the values and principles of mutual respect and acceptance, and also on the affirmation of the personal rights of all members of the community.</p>
+<p>As responsible members of the IMT Hyderabad community, all students are expected to handle their academic, professional and personal matters independently by themselves.</p>
+<p> <b> Interference from parents and / or other family members in academic matters pertaining to the institute amounts to demeaning the maturity of students and is strictly discouraged.</b></p>
+<p><b>1. Prevention and Prohibition of Ragging</b></p>
+<p>It has been Institute’s endeavor to keep it free from any act of ragging among students on its premises or outside. All students are hereby advised not to indulge in any act of ragging including any conduct by any student, which has the effect of teasing, treating or handling with rudeness a fresher or any other student or an act of indiscipline causing annoyance, hardship or psychological harm, etc. to any fresher or any other student.</p>
+
+    <p><b>I. Ragging constitutes one or more of any of the following acts</b></p>
+<div class="crs_list">
+        <ul>
+            <li>Any conduct by any student or students whether by words spoken or written or by an act which has the effect of teasing, treating or handling with rudeness a fresher or any other student.</li>
+            <li>Indulging in rowdy or undisciplined activities by any student or students, which causes or is likely to cause annoyance, hardship, physical or psychological harm or to raise fear or apprehension thereof in any fresher or any other student.</li>
+            <li>Asking any student to do any act which such student will not in the ordinary course do and which has the effect of causing or generating a sense of shame, or torment or embarrassment so as to adversely affect the physique or psyche of such fresher or any other student.</li>
+            <li>Any act by a senior student that prevents, disrupts or disturbs the regular academic activity of any other student or a fresher.</li>
+            <li>Exploiting the services of a fresher or any other student for completing the academic tasks assigned to an individual or a group of students.</li>
+            <li>Any act of financial extortion or forceful expenditure burden put on a fresher or any other student by students.</li>
+            <li>Any act of physical abuse including all variants of it: sexual abuse, homosexual assaults, and stripping, forcing obscene and lewd acts, gestures, causing bodily harm or any other danger to health or person.</li>
+            <li>Any act or abuse by spoken words, emails, posts, public insults which would also include deriving perverted pleasure, vicarious or sadistic thrill from actively or passively participating in the discomfiture to fresher or any other student.</li>
+            <li> Any act that affects the mental health and self-confidence of a fresher or any other student with or without an intent to derive a sadistic pleasure or showing off power, authority or superiority by a student over any fresher or any other student.</li>
+        </ul>
+</div>
+        <br>
+    <p><b>II. Administrative action in the event of ragging</b></p>
+    <p>The Anti-Ragging Committee of the institution shall take an appropriate decision, in regard to punishment or otherwise, depending on the facts of each incident of ragging and nature and gravity of the incident of ragging.</p>
+    <p>The Anti-Ragging Committee (which is being constituted through a separate order) may depending on the nature and gravity of the guild established by the Anti-Ragging Squad, award, to those found guilty, one or more of the following punishments, namely:</p>
+<div class="crs_list">
+        <ul>
+            <li>Cancellation of admission</li>
+            <li>Suspension from attending classes</li>
+            <li>Withholding/withdrawing scholarship/fellowship and other benefits</li>
+            <li>Debarring from appearing in any test/examination or other evaluation process</li>
+            <li>Withholding results</li>
+            <li>Debarring from representing the institution in any regional, national or international meet, tournament, youth festival, etc.</li>
+            <li>Suspension/expulsion from the hostel</li>
+            <li>Rustication from the institution for period ranging from 1 to 3 trimesters</li>
+            <li>Expulsion from the institution and consequent debarring from admission to any other institution</li>
+            <li>Collective punishment: when the persons committing or abetting the crime of ragging are not identified, the institution shall resort to collective punishment as a deterrent to ensure community pressure on the potential raggers</li>
+        </ul>
+</div>
+    <br>
+    <p class="inv-txt"><b>III. Anti-Ragging committee of the Institute shall consist of the following:</b></p>
+  <table class="table table-bordered table-sm">
+          <thead class="bg-light">
+            <tr>
+              <th class="fw-bold">Name of the Committee Member</th>
+              <th class="fw-bold">Designation</th>
+              <th class="fw-bold">Phone No.</th>
+              <th class="fw-bold">Landline No.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Prof. (Dr.) K. Sriharsha Reddy</td>
+              <td>Director</td>
+              <td>9849528676</td>
+              <td>040-30461673</td>
+            </tr>
+            <tr>
+              <td>Prof. (Dr.) Nikhil Rastogi</td>
+              <td>Chairperson- Disciplinary & Academic Counselling Committee</td>
+              <td>7306874901</td>
+              <td>040-30461670</td>
+            </tr>
+            <tr>
+              <td>Prof. (Dr.) Rambalak Yadav</td>
+              <td>Warden - Boys Hostel</td>
+              <td>8186802138</td>
+              <td>08414-671602</td>
+            </tr>
+            <tr>
+              <td>Prof. (Dr.) P Steven Raj</td>
+              <td>Warden - Boys Hostel</td>
+              <td>9440999119</td>
+              <td>040-30461658</td>
+            </tr>
+            <tr>
+              <td>Prof. (Dr.) Shabnam Priyadarshini</td>
+              <td>Warden - Girls Hostel</td>
+              <td>9618525250</td>
+              <td>040-30461697</td>
+            </tr>
+            <tr>
+              <td>Prof. (Dr.) Sarath Babu</td>
+              <td>Chairperson-PGDM (Executive) Program</td>
+              <td>9160501754</td>
+              <td>040-30461670</td>
+            </tr>
+            <tr>
+              <td>Prof. (Dr.) Romina Mathew</td>
+              <td>Chairperson – Examination Committee</td>
+              <td>9246295292</td>
+              <td>040-30461689</td>
+            </tr>
+            <tr>
+              <td>Prof. (Dr.) Tumpa Dey</td>
+              <td>Area Chairperson - HRM</td>
+              <td>9955199476</td>
+              <td>040-30461695</td>
+            </tr>
+            <tr>
+              <td>Mr. Sarat Kumar</td>
+              <td>Incharge – Administration and Maintenance</td>
+              <td>9490187243</td>
+              <td>040-30461683</td>
+            </tr>
+            <tr>
+              <td>Ms. Padma Sundari</td>
+              <td>In Charge – HR</td>
+              <td>9959968904</td>
+              <td>040-30461661</td>
+            </tr>
+            <tr>
+              <td>Dr. Maratha Raghuveer Aclianta (NGO Representative)</td>
+              <td>Social Worker</td>
+              <td>9849418592</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Mr. V Bhaskar</td>
+              <td>ACP — Shamshabad Police Station</td>
+              <td>9490617481</td>
+              <td>08413-222488</td>
+            </tr>
+            <tr>
+              <td>Mr. A Ravindra Seshu (Media Representative)</td>
+              <td>Senior Reporter, Khammam District</td>
+              <td>90637 18675</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Parent Representative</td>
+              <td>Hyderabad</td>
+              <td>9848023095</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Sr. Student Representative</td>
+              <td>IMT Hyderabad</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Sr. Student Representative</td>
+              <td>IMT Hyderabad</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Jr. Student Representative</td>
+              <td>IMT Hyderabad</td>
+              <td></td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+<p>The Anti-Ragging squad shall be responsible for maintaining vigil, oversight and patrolling functions and shall remain mobile, alert and active at all times.</p>
+<p>It shall be the duty of the Anti-Ragging Squad to make surprise raids on hostels and other places vulnerable to incidents of and having the potential of, ragging and shall be empowered to inspect such places.</p>
+<p>It shall be the duty of the Anti-Ragging Squad to conduct an on-the-spot enquiry into any incident of ragging referred to it by any student and the enquiry report along with the recommendations shall be submitted to the Anti-Ragging Committee of the Institute for action as specified in the Policy.</p>
+<p>In case of an appeal against the order of punishment by the Anti-Ragging Committee, the discretionary power shall lie with the Director.</p>
+<p><b><i>This policy comes in force from the date of issue of this Circular as an immediate measure to prohibit ragging in the Institute.</i></b></p>
+<p><b>2. Academic Integrity</b></p>
+<p>Academic integrity is fundamental to a successful academic community. Students should recognize their responsibility to uphold highest standards of intellectual honesty and to report apparent violations to the appropriate persons. The following are the descriptions and examples of behaviours that are inconsistent with academic integrity.</p>
+<div class="crs_list">
+<ul>
+    <li>Malpractices in the examination hall - Giving or receiving of any unauthorized assistance or providing or obtaining unfair advantage in examinations. It includes the use of unauthorized materials during exams, unauthorized possession of a test paper prior to the test date, copying from other students' answer books, or talking to other students during exams</li>
+    <li>Multiple submissions of the same work - Submission of work that was prepared for one course for credit in another or to submit the same work for credit in two courses, without permission from the concerned faculty member(s)</li>
+    <li>Fabrication and deception - The falsification of data, information or any untruth either verbally or in writing with respect to any academic work including giving a false excuse for missing a deadline or falsely claiming to have submitted work</li>
+    <li>Attempts / Facilitation - Any attempt toward or facilitation of any act of academic dishonesty are also cases of academic dishonesty. It includes facilitating a student's efforts to cheat in an examination, facilitating another in an act of plagiarism, or facilitating the falsification of data or other information</li>
+    <li>Sabotage - Acting to prevent others from completing their work. It includes, but is not limited to cutting pages out of library books or willfully disrupting the work of others.</li>
+</ul>  
+</div>
+<p>All such cases of malpractices will be reported to the Chairperson-Examination Committee for necessary action.</p>
+<p><b>3. Plagiarism</b></p>
+<p>Plagiarism is the copying of the language, structure, ideas, or thoughts of another and representing the same as one's own original work. Examples of plagiarism include: failing to use quotation marks when directly quoting from a source; failing to document distinctive ideas from a source; fabricating or inventing sources; and copying information from books and the internet.</p>
+<p><b>4. Sexual Harassment</b></p>
+<div class="crs_list">
+<ul>
+    <li>Sexual harassment has come to be widely condemned as a form of human rights violation, and as an infringement on life and liberty as defined by the Constitution of India</li>
+    <li>Sexual harassment by any member of the institute is prohibited</li>
+    <li>Without feeling constrained by specific definitions, any person who believes that his or her professional work or personal values are compromised by sexual harassment should feel free to report the matter to internal committee.</li>
+    <li>Any complaint in this regard will be given due cognizance and appropriate action will be taken against the guilty by Chairperson Internal Complaints Committee (ICC)</li>
+</ul>
+</div>
+<p class="inv-txt"><b>5. Smoking, Alcohol and Contraband</b></p>
+<div class="crs_list">
+<ul>
+    <li>Smoking is strictly prohibited in all public areas in the campus.</li>
+    <li>Possession and consumption of alcohol by students inside the campus or outside the immediate campus premises is banned</li>
+    <li>Possession and consumption of contraband, narcotics, and psychotropic drugs is illegal and is banned.</li>
+</ul>
+</div>
+<p class="inv-txt"><b>6. Dressing and Grooming</b></p>
+<div class="crs_list">
+<ul>
+    <li>Appropriate dressing and grooming can aid us in projecting a professional image. Dress or clothing, includes all articles of clothing, accessories, bags, or visible body art. Grooming includes attention to hygiene, neatness, as well as care and presentation of the skin, hair, and nails</li>
+    <li>While we believe that the way of dressing should be, at best, left to individual, it requires the students to be dressed in a dignified manner conducive to a business school environment. Students need to cultivate an appearance that expresses motivation and professionalism</li>
+    <li>Students are required to be dressed in business formals or business casuals in the classrooms as well as in other areas where academic activities take place. Clothes like shorts, Bermuda’s, flip flops, bathroom slippers etc., must be avoided</li>
+    <li>Students will be given identification (ID) cards in Term I. Students are expected to wear their ID cards inside the campus and should always carry it with them when they go outside the campus.</li>
+</ul>
+</div>
+<p class="inv-txt"><b>7. Mobile Phones in Classroom</b></p>
+<div class="crs_list">
+<ul>
+    <li>Students are not allowed to use their mobile phones in the classrooms.</li>
+    <li>Students may use their laptops for their digital requirements and may also use the network connectivity in the class. However, to do so, use of mobile phones or any similar hand-held devices will not be allowed in the class.</li>
+</ul>
+</div>
+<p>If any student violates the abovementioned regulations with respect to professional behavior indicated in this section, it will be referred to the Disciplinary Committee and will be liable for the punishment awarded by the committee. Refer to section I-3.2 for further details on possible punitive actions.</p>
+<p>The institute will not be held responsible if a student gets involved in activities which are illegal as per the law of the land, resulting in action by regulatory authorities like the police.</p>
+      </div>
+    </div>
+   </div>
+  </div>
+</section>
+
+
+    
+<section class="placement-alliances-section py-4" data-aos="fade-up" data-aos-duration="1000">
+  <div class="container text-center">
+    <h6 class="subtitle text-center text-warning" data-aos="fade-down" data-aos-delay="100">Our Clients</h6>
+    <h2 class="section-title  mb-4" data-aos="zoom-in" data-aos-delay="200">Our Distinguished Clients</h2>
+    <p class="mb-5 " data-aos="fade-up" data-aos-delay="300">
+      We are proud to be associated with top companies.
+    </p>
+
+    <!-- Owl Carousel -->
+    <div id="placement-carousel" class="owl-carousel owl-theme" data-aos="fade-up" data-aos-delay="400">
+  <!-- 65 Image Items -->
+  <div class="item"><img src="./media/placementimg/1.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/2.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/3.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/4.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/5.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/6.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/7.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/8.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/9.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/10.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/11.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/12.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/13.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/14.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/15.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/16.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/17.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/18.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/19.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/20.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/21.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/22.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/23.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/24.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/25.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/26.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/27.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/28.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/29.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/30.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/31.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/32.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/33.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/34.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/35.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/36.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/37.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/38.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/39.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/40.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/41.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/42.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/43.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/44.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/45.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/46.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/47.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/48.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/49.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/50.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/51.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/52.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/53.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/54.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/55.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/56.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/57.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/58.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/59.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/60.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/61.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/62.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/63.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/64.webp" alt=""></div>
+  <div class="item"><img src="./media/placementimg/65.webp" alt=""></div>
+</div>
+  </div>
+</section>
+<script>
+  AOS.init({
+    duration: 1000,
+    once: true
+  });
+</script>
+<script>
+  $(document).ready(function(){
+    $("#placement-carousel").owlCarousel({
+      loop:true,
+      margin:20,
+      nav:true,
+      dots:false,
+      autoplay:true,
+      autoplayTimeout:2000,
+      autoplayHoverPause:true,
+      responsive:{
+        0:{ items:1 },
+        600:{ items:3 },
+        1000:{ items:4 }
+      }
+    });
+  });
+</script>
+
+<style>
+  .owl-carousel .item {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.3s;
+  }
+  .owl-carousel .item:hover {
+    transform: translateY(-5px);
+  }
+  .owl-carousel .item img {
+    max-height: 80px;
+    object-fit: contain;
+  }
+  .custom-card {
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  cursor: pointer;
+}
+
+/* Hover effect: change background & add slight lift */
+.custom-card:hover {
+  background-color: #ffc107;
+  border: 1px solid #03255f;      /* Light grey, adjust as desired */
+  transform: translateY(-5px);    /* Small lift effect */
+}
+
+</style>
+
+
+
+
+
+    <style>
+    /* Gradient banner with subtle overlay */
+    .faculty-hero {
+    background: url('./media/hero.webp');
+    position: relative;
+    background-size:cover ;
+    height:50vh;
+    }
+    .faculty-hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.3);
+    }
+    .faculty-hero h2,
+    .faculty-hero p {
+    
+    position: relative;
+    z-index: 1;
+    }
+    .faculty-hero h2{
+
+    margin-top:150px;
+    }
+
+    /* Card styling */
+    .faculty-card {
+    background: #f8f9fa;
+    border: none;
+    border-radius: 1.5rem;
+    }
+
+    /* Image glow & hover effect */
+    .faculty-img {
+    border-radius: 1.2rem;
+    transition: transform 0.4s ease;
+    }
+    .faculty-img:hover {
+    transform: scale(1.03);
+    }
+
+    /* Social icons */
+    .social-icon {
+    display: inline-flex;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+        
+    background: #ffc107;
+    color: #ffffffff;
+    transition: all 0.3s;
+    }
+    .social-icon:hover {
+    background: #5390D9;
+    color: #ffffffff;
+    transform: translateY(-3px);
+    }
+
+    .faculty-tabs .nav-pills .nav-link.active {
+    background: #ffc107 !important;
+    color: #000000ff !important;
+    }
+    .small-placeholder::placeholder {
+    font-size: 0.85rem ;   /* adjust size as needed */
+    }
+    .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    border-radius: 50rem !important;
+    background: #ffc107 !important;
+    color: #333 !important;
+    transition: all 0.3s !important;
+}
+.nav-pills .nav-link {
+    border-radius: var(--bs-nav-pills-border-radius);
+    background-color: #e9ecef;
+    border-radius: 30px;
+    color: #333;
+}
+
+
+
+    </style>
+    
+
+    <?php include "./components/footer.php" ?>
+
+
+                
+                
+        
+    </body><!-- jQuery (required) -->
+
+    <script src="./main.js"></script>
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- Owl Carousel JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <!-- AOS JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script>
+    AOS.init({
+        duration: 1200, // animation duration
+        once: true,     // animation runs only once
+    });
+    </script>
+    <script>
+    AOS.init();
+    </script>
+
+    <script>
+    $(document).ready(function(){
+    $("#owl-demo").owlCarousel({
+        loop:true,
+        margin:20,
+        nav:true,
+        dots:false,
+        autoplay:true,
+        autoplayTimeout:2000,
+        autoplayHoverPause:true,
+        responsive:{
+        0:{ items:1 },
+        8600:{ items:3 },
+        1000:{ items:4 }
+        }
+    });
+    });
+    </script>
+
+<!-- AOS (if you need it) -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<!-- Bootstrap Bundle (includes Popper) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+    AOS.init({
+        duration: 1000,   // Animation duration
+        once: true        // Animate only once
+    });
+    </script>
+    </html>

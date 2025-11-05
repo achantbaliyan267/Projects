@@ -1,0 +1,22 @@
+RewriteEngine On
+
+# --- Serve static assets directly ---
+RewriteCond %{REQUEST_URI} \.(css|js|png|jpg|jpeg|gif|svg|woff|woff2|ttf|ico)$ [NC]
+RewriteRule ^ - [L]
+
+# --- Redirect index.php or index → root ---
+RewriteRule ^index(\.php)?$ / [R=301,L]
+
+# --- Serve about.php for /about ---
+RewriteRule ^about/?$ about.php [L]
+
+# --- Serve extension-less PHP files if they exist ---
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+# --- Fallback: all others to index.php ---
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^.*$ index.php [L]
