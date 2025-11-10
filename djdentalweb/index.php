@@ -17,28 +17,8 @@
   <section class="hero-section py-5">
     <div class="container hero-content">
       
-      <!-- Mobile/Tablet Doodle SVG -->
-      <svg class="doodle mobile" width="480" height="767" viewBox="0 0 480 767" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M521.341 762.101C462.822 393.539 440.895 347.326 398.308 368.875C355.722 390.424 364.519 488.085 375.246 586.665C383.672 664.095 352.284 703.103 283.247 628.356C173.045 509.039 111.126 291.976 144.258 262.3C279.435 141.223 304.302 615.114 234.864 652.034C127.926 708.894 26.9112 379.347 -30.174 4.32244" stroke="#9DDAF0" stroke-opacity="0.3" stroke-width="56"></path>
-      </svg>
-
-      <!-- Desktop Doodle SVG --> 
-      <svg class="doodle desktop" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1048.319px" height="910px" viewBox="871.757 0 1048.319 910" style="enable-background:new 871.757 0 1048.319 910;" xml:space="preserve">
-        <g>
-          <defs>
-            <rect id="SVGID_1_" x="0" y="0" width="1920" height="910"></rect>
-          </defs>
-          <clipPath id="SVGID_2_">
-            <use xlink:href="#SVGID_1_" style="overflow:visible;"></use>
-          </clipPath>
-          <g style="clip-path:url(#SVGID_2_);">
-            <path style="fill:none;stroke:rgba(157, 218, 240, 0.3);stroke-width:80;" d="M1999.5,993.502c-134-527.5-190.45-635.668-271.28-607.478
-              c-80.83,28.192-46.71,208.77-20.37,349.576c20.7,110.598-62.63,176.401-174.891,53.991
-              c-169.14-184.452-242.739-454.515-183.119-528.875c116.119-144.807,222.939,511.255,91.25,559.761
-              c-202.811,74.701-416.46-399.763-548.067-936.37"></path>
-          </g>
-        </g>
-      </svg>
+      <svg class="doodle desktop mobile"
+       xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 2000 2000"><g><g fill="hsl(43, 97%, 49%)" id="star"><path d="M 500 500 C 1000 1000 1000 1000 1500 500 C 1000 1000 1000 1000 1500 1500 C 1000 1000 1000 1000 500 1500 C 1000 1000 1000 1000 500 500" stroke-linecap="round" stroke-linejoin="round"></path></g></g></svg>
       
       <!-- Desktop Layout -->
       <div class="d-none d-lg-block">
