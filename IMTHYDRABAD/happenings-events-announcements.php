@@ -109,7 +109,7 @@ From new appointments to dynamic events, our community thrives on engagement, in
               role="tab"
               >79th Independence Day Celebrations</a
             >
-            <!-- <a
+             <a
               class="nav-link rounded bg-light mt-3 text-black"
               id="v-pills-std4-tab"
               data-bs-toggle="pill"
@@ -275,7 +275,7 @@ From new appointments to dynamic events, our community thrives on engagement, in
               role="tab"
               >IMT Hyderabad Hosts Grand Convocation Ceremony to Celebrate
               Graduating batch of 2022-2024s</a
-            > -->
+            > 
           </div>
         </div>
 

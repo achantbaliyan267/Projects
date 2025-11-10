@@ -62,7 +62,7 @@ Discover state-of-the-art learning spaces designed to inspire innovation and com
         </div>
     </section>
 
-     <!-- <div class="container">
+     <div class="container">
       <h2 class="section-title text-center  mb-4" data-aos="fade-up" data-aos-delay="200">STUDENT LIFE @ IMT HYDERABAD</h2>
         
         <div class="gallery">
@@ -102,7 +102,7 @@ Discover state-of-the-art learning spaces designed to inspire innovation and com
                 <img src="images/g2.png" alt="Campus Image 10" class="gallery__img">
             </figure>
         </div>
-    </div> -->
+    </div>
 
 
 
